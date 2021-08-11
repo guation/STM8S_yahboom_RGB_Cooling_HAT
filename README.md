@@ -28,7 +28,7 @@ PD4--风扇PWM
   - [x] 设置转速
 - [x] 呼吸灯
 ## I2C通讯协议
-<table border=1 cellpadding=0 cellspacing=0 width=902 style='border-collapse:
+<table border=0 cellpadding=0 cellspacing=0 width=902 style='border-collapse:
  collapse;table-layout:fixed;width:676pt'>
  <col width=83 span=2 style='mso-width-source:userset;mso-width-alt:2656;
  width:62pt'>
