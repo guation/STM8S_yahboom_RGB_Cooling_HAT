@@ -12,6 +12,7 @@ PB5--SDA
 PC3--呼吸灯PWM  
 PC4--RGB灯  
 PD4--风扇PWM  
+详见[rgb-fan.ioc8](https://github.com/guation/STM8S_yahboom_RGB_Cooling_HAT/blob/master/rgb-fan.ioc8)([STM8CubeMX](https://www.st.com/zh/development-tools/stm8cubemx.html))
 #### 2.框架状态:
 - [x] I2C通信
 - [x] 设置呼吸灯
